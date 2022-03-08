@@ -1,2 +1,2 @@
-# Facial-Recognization
-in the process!
+# Facial-Recognization (Application in progress)
+
